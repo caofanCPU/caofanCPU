@@ -4,22 +4,10 @@
 
 [![D8ger's languge skills](https://github-readme-stats.vercel.app/api/top-langs/?username=caofanCPU&layout=compact)](https://github.com/caofanCPU/DebuggerBoot)
 
+[![D8gerAutoCode](https://github-readme-stats.vercel.app/api/pin/?username=caofanCPU&show_owner=true&repo=D8gerAutoCode)](https://github.com/caofanCPU/D8gerAutoCode)
 
-<table>
-    <tr>
-      <td align="center">
-        [![D8gerAutoCode](https://github-readme-stats.vercel.app/api/pin/?username=caofanCPU&show_owner=true&repo=D8gerAutoCode)](https://github.com/caofanCPU/D8gerAutoCode)
-      </td>
-      <td align="center">
-        [![D8gerConcurrent](https://github-readme-stats.vercel.app/api/pin/?username=caofanCPU&show_owner=true&repo=D8gerConcurrent)](https://github.com/caofanCPU/D8gerConcurrent)
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        [![D8gerStarters](https://github-readme-stats.vercel.app/api/pin/?username=caofanCPU&show_owner=true&repo=D8gerStarters)](https://github.com/caofanCPU/D8gerStarters)
-      </td>
-      <td align="center">
-        [![AdvancedJava](https://github-readme-stats.vercel.app/api/pin/?username=caofanCPU&show_owner=true&repo=advanced-java)](https://github.com/caofanCPU/advanced-java)
-      </td>
-    </tr>
-</table>
+[![D8gerConcurrent](https://github-readme-stats.vercel.app/api/pin/?username=caofanCPU&show_owner=true&repo=D8gerConcurrent)](https://github.com/caofanCPU/D8gerConcurrent)
+
+[![D8gerStarters](https://github-readme-stats.vercel.app/api/pin/?username=caofanCPU&show_owner=true&repo=D8gerStarters)](https://github.com/caofanCPU/D8gerStarters)
+
+[![AdvancedJava](https://github-readme-stats.vercel.app/api/pin/?username=caofanCPU&show_owner=true&repo=advanced-java)](https://github.com/caofanCPU/advanced-java)
